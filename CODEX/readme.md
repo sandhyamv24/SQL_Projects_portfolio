@@ -24,17 +24,6 @@ Each project comes with detailed documentation and explanations, making it easy 
 
 The following SQL projects are currently available in the CODEX repository:
 
-1. [Project 1 - Sales Analysis](https://github.com/sandhyamv24/SQL_Projects_portfolio/tree/main/CODEX/Project_1_Sales_Analysis)
-   - Description: Analyzing sales data to gain insights into sales performance, popular products, and customer behavior.
-   - Tools used: SQL, SQLite.
-
-2. [Project 2 - Employee Database Management](https://github.com/sandhyamv24/SQL_Projects_portfolio/tree/main/CODEX/Project_2_Employee_Database_Management)
-   - Description: Designing and managing an employee database, including queries for employee information retrieval.
-   - Tools used: SQL, MySQL.
-
-3. [Project 3 - Customer Segmentation](https://github.com/sandhyamv24/SQL_Projects_portfolio/tree/main/CODEX/Project_3_Customer_Segmentation)
-   - Description: Applying clustering techniques to segment customers based on their purchase history.
-   - Tools used: SQL, PostgreSQL.
 
 ## Getting Started
 
@@ -44,7 +33,7 @@ To get started with the SQL projects in this repository, follow the instructions
 
 Make sure you have the following installed:
 
-- SQL database management system (e.g., MySQL, PostgreSQL, SQLite).
+- SQL database management system MYSQL
 - SQL client or interface to execute the SQL scripts.
 
 ### Setup
