@@ -22,7 +22,7 @@ Their Marketing team is responsible for increasing brand awareness, market share
 ## Projects
 
 The following SQL projects are currently available in the CODEX repository:
-[myproj.sql](https://github.com/sandhyamv24/SQL_Projects_portfolio/blob/main/CODEX/myproj.sql) _ The file contains queries for analysis.
+- [myproj.sql](https://github.com/sandhyamv24/SQL_Projects_portfolio/blob/main/CODEX/myproj.sql) _ The file contains queries for analysis.
 
 ## Getting Started
 
