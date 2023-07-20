@@ -16,14 +16,13 @@ Welcome to the SQL Projects Portfolio repository - CODEX! This repository showca
 
 ## Introduction
 
-In this repository, you will find various SQL projects that cover different aspects of data analysis, data manipulation, and database querying. The projects are designed to showcase the author's skills in SQL and how SQL can be effectively used to solve real-world data problems.
-
-Each project comes with detailed documentation and explanations, making it easy for anyone interested in SQL to understand the thought process and methodology used to solve the given tasks.
+CodeX is a German beverage company that is aiming to make its mark in the Indian market. A few months ago, they launched their energy drink in 10 cities in India.
+Their Marketing team is responsible for increasing brand awareness, market share, and product development. They conducted a survey in those 10 cities and received results from 10k respondents. Peter Pandey, a marketing data analyst is tasked to convert these survey results to meaningful insights which the team can use to drive actions.
 
 ## Projects
 
 The following SQL projects are currently available in the CODEX repository:
-
+[myproj.sql](https://github.com/sandhyamv24/SQL_Projects_portfolio/blob/main/CODEX/myproj.sql) _ The file contains queries for analysis.
 
 ## Getting Started
 
